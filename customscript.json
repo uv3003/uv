@@ -1,0 +1,4 @@
+{
+       "commandToExecute": "./customscript.sh",
+       "fileUris": ["/home/yuvraj/"],
+}
