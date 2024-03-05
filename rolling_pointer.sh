@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-clear  # Let clear the screen first
+clear  # Let's clear the screen first
 
 echo " Starting the spinning wheel.."
 echo " Press 'q' or 'Q' to stop it.."
